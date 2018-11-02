@@ -32,7 +32,7 @@ The [Pen][] also includes commented out CSS Code to (`/* this is a CSS comment *
 - Set the `font-size` to `22px` for the element with `id` `main-header`
 - Set the `font-style` to `italic` for elements containing the class `perspective-questions`
 
-# Code Along Instructions
+## Code Along Instructions
 
 Open the [Pen][] in a separate browswer tab to follow the code along instructions.
 
