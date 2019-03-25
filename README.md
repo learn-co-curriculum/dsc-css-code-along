@@ -2,7 +2,7 @@
 # CSS Code Along
 
 ## Introduction
-It's time to see some CSS code in action. [Codepen][] is a great tool to easily test HTML and CSS code and it's what we will use for our example.
+It's time to see some CSS code in action. [Codepen][] is a great tool to easily test HTML and CSS code that you'll see in practice here.
 
 ## Objectives
 You will be able to:
@@ -13,7 +13,7 @@ You will be able to:
 
 This [Pen][] (saved [Codepen][] document) contains an HTML document with the following structure:
 
-- a [`<body>`][] element (root of the html content. In [Codepen][] we will not see a body tag, it's implicitly present and wraps all the HTML content)
+- a [`<body>`][] element (root of the html content. In [Codepen][] you will not see a body tag, it's implicitly present and wraps all the HTML content)
 - an [`<article>`][] tag to define our content as self-contained unit (e.g. blog post, newspaper article)
 - an [`<h1>`][h tags] tag to wrap the [`<article>`]'s header text
 - [`<p>`][] tags to wrap the [`<article>`]'s unstructured text
@@ -38,35 +38,24 @@ Open the [Pen][] in a separate browswer tab to follow the code along instruction
 
 ## Pen Screenshot
 
-![][Pen homepage]
+<img src="images/codepen.jpeg">
 
 ## Unstyled HTML Document Screenshot
 
-![][Unstyled page]
+<img src="images/unstyled-codepen.jpeg">
 
 ## Styled HTML Document Screenshot
 
-![][Styled page]
+<img src="images/styled-codepen.jpeg" width=1050>
 
 All the CSS code you need to successfully modify the page is already included but commented out. All you need to do is uncomment all the `CSS declarations` (`property-name`:`value`) one by one.
 
 ## CSS Declarations Uncommenting Steps
 
-![][Uncomment instructions]   
-
+<img src="images/css-code-codepen.jpg" width=1050>
 
 [Codepen]: https://codepen.io/
 [Pen]: https://codepen.io/curiositypaths/pen/WddzQM?editors=1100
-[Pen homepage]: https://curriculum-content.s3.amazonaws.com/web-development/codepen.jpeg
-[Unstyled page]: https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
-[Styled page]: https://curriculum-content.s3.amazonaws.com/web-development/styled-codepen.jpeg
-[Uncomment instructions]: https://curriculum-content.s3.amazonaws.com/web-development/css-code-codepen.jpg
-[`<body>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body
-[`<article>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
-[h tags]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
-[`<p>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
-[`<ul>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
-[`<li>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li
 
 ## Summary
 Awesome! In this code along you got to preview and practice a standard web development environment and modify CSS code!
