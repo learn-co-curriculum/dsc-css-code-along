@@ -34,7 +34,7 @@ The [Pen][] also includes commented out CSS Code to (`/* this is a CSS comment *
 
 ## Code Along Instructions
 
-Open the [Pen][] in a separate browswer tab to follow the code along instructions.
+Open the [Pen][] in a separate broswer tab to follow the code along instructions.
 
 ## Pen Screenshot
 
