@@ -46,7 +46,7 @@ Open the [Pen][] in a separate broswer tab to follow the code along instructions
 
 ## Styled HTML Document Screenshot
 
-<img src="images/styled-codepen.jpeg" width=1050>
+<img src="images/styled-codepen.jpeg" width="1050">
 
 All the CSS code you need to successfully modify the page is already included but commented out. All you need to do is uncomment all the `CSS declarations` (`property-name`:`value`) one by one.
 
