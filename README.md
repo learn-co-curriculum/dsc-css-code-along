@@ -17,7 +17,7 @@ This [Pen][] (saved [Codepen][] document) contains an HTML document with the fol
 - an [`<article>`][] tag to define our content as self-contained unit (e.g. blog post, newspaper article)
 - an [`<h1>`][h tags] tag to wrap the [`<article>`]'s header text
 - [`<p>`][] tags to wrap the [`<article>`]'s unstructured text
-- [`<ul>`][] tags to represent un-ordered lists
+- [`<ul>`][] tags to represent unordered lists
 - [`<li>`][] tags to wrap each list item
 
 ## Code Example CSS Structure
@@ -34,7 +34,7 @@ The [Pen][] also includes commented out CSS Code to (`/* this is a CSS comment *
 
 ## Code Along Instructions
 
-Open the [Pen][] in a separate broswer tab to follow the code along instructions.
+Open the [Pen][] in a separate browser tab to follow the code along instructions.
 
 ## Pen Screenshot
 
