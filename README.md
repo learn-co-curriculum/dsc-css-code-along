@@ -5,8 +5,9 @@
 It's time to see some CSS code in action. [Codepen][] is a great tool to easily test HTML and CSS code that you'll see in practice here.
 
 ## Objectives
-You will be able to:
-* Use Codepen to preview and modify HTML and CSS files
+You will be able to:  
+
+* Use Codepen to preview and modify HTML and CSS files  
 * Comment and uncomment CSS and HTML
 
 ## Code Example HTML Structure
