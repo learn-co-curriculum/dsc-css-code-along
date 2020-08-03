@@ -38,7 +38,9 @@ The [Pen][] also includes commented-out CSS Code to:
 
 ## Code Along Instructions
 
-Open the [Pen][] in a separate browser tab to follow the code along instructions.
+Open the [Pen][] in a separate browser tab to follow the code along instructions. 
+
+All the CSS code you need to successfully modify the page is already included but commented out. All you need to do is uncomment all the `CSS declarations` (`property-name`:`value`) one-by-one.
 
 ## Pen Screenshot
 
@@ -51,8 +53,6 @@ Open the [Pen][] in a separate browser tab to follow the code along instructions
 ## Styled HTML Document Screenshot
 
 <img src="images/styled-codepen.jpeg" width="1050">
-
-All the CSS code you need to successfully modify the page is already included but commented out. All you need to do is uncomment all the `CSS declarations` (`property-name`:`value`) one-by-one.
 
 ## CSS Declarations Uncommenting Steps
 
