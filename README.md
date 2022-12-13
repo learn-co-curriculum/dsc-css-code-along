@@ -1,5 +1,4 @@
-
-# CSS Code Along
+# Explore CSS with Codepen
 
 ## Introduction
 
