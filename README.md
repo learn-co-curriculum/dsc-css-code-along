@@ -1,4 +1,4 @@
-# Explore CSS with Codepen
+# CSS Code Along
 
 ## Introduction
 
@@ -43,19 +43,19 @@ All the CSS code you need to successfully modify the page is already included bu
 
 ## Pen Screenshot
 
-<img src="images/codepen.jpeg">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/codepen.jpeg">
 
 ## Unstyled HTML Document Screenshot
 
-<img src="images/unstyled-codepen.jpeg">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/unstyled-codepen.jpeg">
 
 ## Styled HTML Document Screenshot
 
-<img src="images/styled-codepen.jpeg" width="1050">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/styled-codepen.jpeg" width="1050">
 
 ## CSS Declarations Uncommenting Steps
 
-<img src="images/css-code-codepen.jpg" width=1050>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/css-code-codepen.jpg" width=1050>
 
 [Codepen]: https://codepen.io/
 [Pen]: https://codepen.io/curiositypaths/pen/WddzQM?editors=1100
